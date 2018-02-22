@@ -2,8 +2,8 @@
 # returns the phrase
 
 
-def parrot(Squak = "Squak!")
+def parrot(say = "Squak!")
 
-  puts "#{Squak}"
-  "#{Squak}"
+  puts "#{say}"
+  "#{say}"
 end
